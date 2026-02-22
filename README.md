@@ -1,4 +1,4 @@
-# Project Name: Emotion Detector
+# Project Name: oaqjp-final-project-emb-ai
 
 ## Description
 Emotion Detector is a machine learning based project that analyzes text or images to identify human emotions such as happy, sad, angry, surprised, and neutral.
@@ -14,7 +14,7 @@ Emotion Detector is a machine learning based project that analyzes text or image
 - (Add libraries you used, e.g., TensorFlow / OpenCV / NLTK)
 
 ## Author
-Your Name
+Saurabh Yadav
 
 ## Repository
 This repository contains the complete source code and project files for the Emotion Detector system.
